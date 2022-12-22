@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @henrychanws
 - 👀 I’m interested in machine learing and robotics.
-- 🌱 I’m currently learning information theory, federated learning or even triboelectric nanogenerators. 
-- 💞️ I’m looking to collaborate on any project related to my interest. 
+- 🌱 I’m currently learning information theory, federated learning and reinforcement learning. 
+- 💞️ I’m looking to collaborate on any project related to my interest but am open-minded to ML applications in other research areas. 
 - 📫 How to reach me thorugh email henrychanws@qq.com/ henrychan.ws@gmail.com 
 
 <!---
