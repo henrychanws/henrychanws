@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @henrychanws
-- 👀 I’m interested in machine learing and robotics.
-- 🌱 I’m currently learning information theory, federated learning and reinforcement learning. 
-- 💞️ I’m looking to collaborate on any project related to my interest but am open-minded to ML applications in other research areas. 
-- 📫 How to reach me thorugh email henrychanws@qq.com/ henrychan.ws@gmail.com 
+- 👀 I’m interested in machine learing, robotics and tactile sensing projects. 
+- 🌱 I’m currently learning information theory, reinforcement learning and optical fibre technology. 
+- 💞️ Please feel free to comment on any of my projects regarding on possible improvements or mistakes. I am also open-minded to different perspectives.
+- 📫 Reach me through email: henrychan.ws@gmail.com 
 
 <!---
 henrychanws/henrychanws is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
